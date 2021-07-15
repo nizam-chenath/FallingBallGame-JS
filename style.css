@@ -11,12 +11,12 @@
 #character{
     width: 20px;
     height: 20px;
-    background-color: blue;
+    background-color: red;
     border-radius: 50%;
     position: relative;
     top: 440px;
     left: 190px;
-    z-index: 1000000;
+    z-index: 100000;
 }
 .block{
     width: 400px;
